@@ -1,0 +1,18 @@
+# Virtual environments
+precious/
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Env variables
+.env
